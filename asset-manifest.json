@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-random-fcc/static/css/main.b0c58951.chunk.css",
+    "main.js": "/react-random-fcc/static/js/main.41477da4.chunk.js",
+    "main.js.map": "/react-random-fcc/static/js/main.41477da4.chunk.js.map",
+    "runtime-main.js": "/react-random-fcc/static/js/runtime-main.f5831d21.js",
+    "runtime-main.js.map": "/react-random-fcc/static/js/runtime-main.f5831d21.js.map",
+    "static/js/2.f7fc6022.chunk.js": "/react-random-fcc/static/js/2.f7fc6022.chunk.js",
+    "static/js/2.f7fc6022.chunk.js.map": "/react-random-fcc/static/js/2.f7fc6022.chunk.js.map",
+    "static/js/3.c0a59855.chunk.js": "/react-random-fcc/static/js/3.c0a59855.chunk.js",
+    "static/js/3.c0a59855.chunk.js.map": "/react-random-fcc/static/js/3.c0a59855.chunk.js.map",
+    "index.html": "/react-random-fcc/index.html",
+    "static/css/main.b0c58951.chunk.css.map": "/react-random-fcc/static/css/main.b0c58951.chunk.css.map",
+    "static/js/2.f7fc6022.chunk.js.LICENSE.txt": "/react-random-fcc/static/js/2.f7fc6022.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5831d21.js",
+    "static/js/2.f7fc6022.chunk.js",
+    "static/css/main.b0c58951.chunk.css",
+    "static/js/main.41477da4.chunk.js"
+  ]
+}
